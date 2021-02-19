@@ -1,1 +1,1 @@
-let button = document.querySelector(selectors: )
+let button = document.querySelector()
